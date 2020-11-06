@@ -1,5 +1,11 @@
-# IA GUSHE-YA! IA INANNA! IA ERNINNI-YA!
-## ASHTA PA MABACHA CHA KUR ENNI-YA!
-# RABBMI LO-YAK ZI ISHTARI KANPA!
-### INANNA ZI AMMA KANPA! BI ZAMMA KANPA!
-## IA IA IA BE-YI RAZULUKI!
+# deathmachinebrand.github.io
+
+To run locally:
+`bundle exec jekyll serve`
+
+#### config.yml
+Modify site constants here (used in core/includes.html)
+
+
+
+
